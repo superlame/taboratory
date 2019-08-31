@@ -1,0 +1,13 @@
+{
+	"name": "Taboratory",
+	"version": "1.0",
+	"manifest_version": 2,
+	"description": "Clean af new tab page.",
+	"permissions": [
+		"tabs"
+	],
+	"chrome_url_overrides":
+	{
+		"newtab": "newtab.html"
+	}
+}
